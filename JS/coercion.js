@@ -1,0 +1,12 @@
+let a = 5 + "5";
+let b = 2 + 2;
+let c = "2" + "2";
+let d = 2 + 2 - 2;
+let e = "2" + "2" - "2";
+let f = "2" * "4";
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);
+console.log(e);
+console.log(f);
